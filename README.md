@@ -1,6 +1,6 @@
 # Mehul Bhagwani
 
-Creative Technologist & Founder-engineer at [Pitch Perfekt Collective](https://github.com/Pitch-Perfekt-Collective), a film and creative-technology studio. I build the operating layer between a director's intent and a shippable film.
+Creative Technologist & senior-engineer at [Pitch Perfekt Collective](https://github.com/Pitch-Perfekt-Collective), a film and creative-technology studio. I build the operating layer between a director's intent and a shippable film.
 
 What I'm building stays quiet until it ships; release notes will appear here when it does.
 
